@@ -21,8 +21,8 @@
 
 ### Решение
 
-![alt text](https://github.com/masterchoo495/KA/blob/main/check.sh)  
-https://github.com/masterchoo495/KA/blob/main/keepalived.conf
+[Скрипт check.sh](https://github.com/masterchoo495/KA/blob/main/check.sh)  
+[Конфиг keepalived](https://github.com/masterchoo495/KA/blob/main/keepalived.conf)
 
 Скриншоты с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html.
 
