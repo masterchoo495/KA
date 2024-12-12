@@ -23,13 +23,13 @@
 Скриншоты с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html.
 
 Работа в штатном режиме
-![alt text](https://github.com/masterchoo495/KA/blob/main/001.png)
+![alt text](https://github.com/masterchoo495/KA/blob/main/001.png)  
 
 Переезд плавающего ip адреса на BACKUP при недоступности 80 порта на хосте MASTER
-![alt text](https://github.com/masterchoo495/KA/blob/main/002.png)
+![alt text](https://github.com/masterchoo495/KA/blob/main/002.png)  
 
 Переезд плавающего ip адреса на BACKUP при недоступности файла index.html на хосте MASTER
-![alt text](https://github.com/masterchoo495/KA/blob/main/003.png)
+![alt text](https://github.com/masterchoo495/KA/blob/main/003.png)  
 
 ------
 
