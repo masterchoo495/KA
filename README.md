@@ -15,6 +15,7 @@
 
 Получившаяся схема в CPT.
 [Схема](https://github.com/masterchoo495/KA/blob/main/schema.pkt)
+
 ------
 
 
