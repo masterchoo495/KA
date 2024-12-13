@@ -9,6 +9,12 @@
 
 ### Решение
 
+Натройки маршрутизаторов  
+![alt text](https://github.com/masterchoo495/KA/blob/main/004.png)  
+![alt text](https://github.com/masterchoo495/KA/blob/main/005.png)  
+
+Получившаяся схема в CPT.
+[Схема](https://github.com/masterchoo495/KA/blob/main/schema.pkt)
 ------
 
 
